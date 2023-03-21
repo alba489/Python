@@ -1,7 +1,7 @@
 #Descripcion de Trabajo
 import math
 print("-------------------------------")
-print("Ejercicio 9")
+print("Ejercicio 10")
 print("-------------------------------")
 #Constante
 PI=3.1416
